@@ -1,0 +1,4 @@
+INFO - Time for creating graph in LinkedList format : 250 mili seconds.
+INFO - 5767 Edges are being deleted with this case.
+INFO - Total time of executing algorithm : 579 seconds.
+INFO - Total time of program life cycle : 580 seconds.

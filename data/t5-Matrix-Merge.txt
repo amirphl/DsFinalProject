@@ -1,0 +1,4 @@
+INFO - Time for creating graph in Matrix format : 7 mili seconds.
+INFO - 3 Edges are being deleted with this case.
+INFO - Total time of executing algorithm : 1 mili seconds.
+INFO - Total time of program life cycle : 46 mili seconds.
